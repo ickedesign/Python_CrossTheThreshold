@@ -175,3 +175,7 @@ type({1: '新月', '1': '苍白', 'E': '降临', 'R' : '月神'}['1']) ===> <cla
 type({}) ===> <class 'dict'>
 ```
 
+## 4.7 思维导图总结基本数据类型
+
+![思维导图总结基本数据类型](https://github.com/ickedesign/Python_CrossTheThreshold/blob/master/04Summary.png)
+
