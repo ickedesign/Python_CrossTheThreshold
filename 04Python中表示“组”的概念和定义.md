@@ -177,5 +177,7 @@ type({}) ===> <class 'dict'>
 
 ## 4.7 思维导图总结基本数据类型
 
+其中tuple也是不可变的类型
+
 ![思维导图总结基本数据类型](https://github.com/ickedesign/Python_CrossTheThreshold/blob/master/image/04Summary.png)
 
